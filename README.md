@@ -5,32 +5,24 @@ This repo contains details and files of the Maths Club Contingent for the tenure
 The following are the competitions we are aiming to participate at.
 1. Simon Marais Mathematics Competition.
 
-## Contingent Members
-The following are contingent members for the year 2024-2025.
+## Contingent
+The Mathematics Contingent for the year 2024-2025.
 
-### Leads
-1. Karthikeya Polisetty.
-2. Aditya S.
+### Contingent Leads
+| 📌 | 📌 |
+| :---: | :---: |
+| **Karthikeya Polisetty** | **Aditya S** |
 
-### Members
-1. Abhinav Singh
-1. Aprajithan
-1. Aravind Ramana
-1. Arya Krishnamurthy
-1. Kirtan
-1. Lakshmiram
-1. Madhav Bharadwaj
-1. Nandha Gopi Krishna
-1. Naveen Koushik Reddy
-1. Naveen
-1. Pranjal Varshney
-1. Pratyaksh
-1. Rithika
-1. Saandeep
-1. Shriram
-1. Vedamanvith Reddy
-1. Zafir Siddiqui
+### Contingent Members
+| 📌 | 📌 | 📌 | 📌 |
+| :---: | :---: | :---: | :---:|
+| **Abhinav Singh** | **Aprajithan** | **Aravind Ramana** | **Arya Krishnamurthy** |
+| **Kirtan** | **Lakshmiram** | **Madhav Bharadwaj** | **Nandha Gopi Krishna** |
+| **Naveen Koushik Reddy** | **Naveen** | **Pranjal Varshney** | **Pratyaksh** |
+| **Rithika** | **Saandeep** | **Shriram** | **Vedamanvith Reddy** |
+| **Zafir Siddiqui** || | |
 
 * The [MoMs and Info](/MoMs%20and%20Info/) folder contains the Minutes of the Meeting that happened during this tenure.
-* The [Application](/Application.pdf) is the application to get into the Mathematics Contingent for the year 2024-2025.
+* The [Application](/Problem%20Sets/Application.pdf/) is the application to get into the Mathematics Contingent for the year 2024-2025.
 * The [Resources](/Resources/) folder contains all the resources and problemsets for the contingent.
+* The [Problems Sets](/Problem%20Sets/) folder contains the [template](/Problem%20Sets/template/) for problem sets and the problem sets that are given for the contingent in the year 2024-25
