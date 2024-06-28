@@ -20,7 +20,7 @@ The Mathematics Contingent for the year 2024-2025.
 | **Kirtan** | **Lakshmiram** | **Madhav Bharadwaj** | **Nandha Gopi Krishna** |
 | **Naveen Koushik Reddy** | **Naveen** | **Pranjal Varshney** | **Pratyaksh** |
 | **Rithika** | **Saandeep** | **Shriram** | **Vedamanvith Reddy** |
-| **Zafir Siddiqui** || | |
+| **Zafir Siddiqui** | **Anjali**| | |
 
 * The [MoMs and Info](/MoMs%20and%20Info/) folder contains the Minutes of the Meeting that happened during this tenure.
 * The [Application](/Problem%20Sets/Application.pdf/) is the application to get into the Mathematics Contingent for the year 2024-2025.
